@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(230, 229, 237);
+    background-color: rgb(100, 100, 100);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,4 +78,5 @@ button:hover{
 .rodape{
     position: fixed;
     bottom: 0px;
+
 }
